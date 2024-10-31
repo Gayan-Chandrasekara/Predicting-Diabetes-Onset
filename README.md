@@ -1,5 +1,5 @@
 # Predicting Diabetes Onset Based on Diagnostic Health Measures Using Machine Learning
-SLIIT Mac in IT - Machine Learning – IT6080 (2024): Programming Assignment
+SLIIT MSc in IT - Machine Learning – IT6080 (2024): Programming Assignment
 MS23001466 Chandrasekara C.M.G.K. 
 
 Dataset Link - https://www.kaggle.com/datasets/hasibur013/diabetes-dataset
