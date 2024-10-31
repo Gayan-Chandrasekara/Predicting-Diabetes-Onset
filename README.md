@@ -2,7 +2,7 @@
 SLIIT Mac in IT - Machine Learning – IT6080 (2024): Programming Assignment
 
 Chandrasekara C.M.G.K.
-MS23001466
+- MS23001466
 
 
 Link to the dataset : https://www.kaggle.com/datasets/parisrohan/credit-score-classification
