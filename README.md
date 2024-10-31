@@ -6,5 +6,7 @@ Chandrasekara C.M.G.K.
 
 
 Link to the dataset : https://www.kaggle.com/datasets/parisrohan/credit-score-classification
+
 Link to a  Github repo : https://github.com/Windana/ml-credit-scoring
+
 Youtube Link : https://youtu.be/fyReLUQlSCM
